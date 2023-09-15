@@ -21,4 +21,3 @@
 
 ![Line-Chart](https://github.com/BainsGarry/CSCI4120/assets/92592979/ff83654b-9f84-4fe5-b623-1780ec3100b4)
 
-<img src="Live-Chart.png"> 
