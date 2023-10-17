@@ -16,3 +16,5 @@
 - Scipy
 - Math
 - Pandas
+
+![Excercise1](Excercise1.png)
