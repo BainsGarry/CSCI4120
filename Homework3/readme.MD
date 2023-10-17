@@ -18,3 +18,4 @@
 - Pandas
 
 ![Excercise1](Excercise1.png)
+![Excercise2](Excercise2.png)
