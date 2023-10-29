@@ -62,3 +62,6 @@
 ## Ridge best 10-fold CV score with best alpha 
 - 0.5074684833885427
 - alpha: 232.99518105153672
+
+## Best Model
+- Ridge
